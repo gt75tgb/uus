@@ -1,0 +1,7 @@
+"uus"
+{
+ "material" "overviews/uus"
+ "pos_x"  "-3165"
+ "pos_y"  "3081"
+ "scale"  "6.00"
+}
